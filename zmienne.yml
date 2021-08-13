@@ -1,0 +1,7 @@
+crontab: "dodaj"   # możliwe parametry dodaj/usun
+cmin: "5" # minuta
+chour: "10" #godzina
+cday: "13" #dzien
+cmonth: "8" #miesiac
+datka: "2021-08-13"
+checkout: "{{ datka }}"
