@@ -1,5 +1,5 @@
 powloka: "ansible" # mozliwe bash/ansible
-crontab: "usun"   # możliwe parametry dodaj/usun
+crontab: "dodaj"   # możliwe parametry dodaj/usun
 cmin: "5" # minuta
 chour: "10" #godzina
 cday: "13" #dzien
