@@ -5,4 +5,4 @@ cday: "13" #dzien
 cmonth: "8" #miesiac
 datka: "2021-08-13"
 checkout: test
-logfile: "/home/kasa/logi/log_{{ datka }}"
+logfile: "/home/kasa/logi/wysylka_log_{{ datka }}"
