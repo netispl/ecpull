@@ -1,4 +1,4 @@
-powloka: "ansible" # mozliwe bash/ansible
+powloka: "bash" # mozliwe bash/ansible
 crontab: "dodaj"   # możliwe parametry dodaj/usun
 cmin: "5" # minuta
 chour: "10" #godzina
