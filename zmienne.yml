@@ -4,6 +4,6 @@ cmin: "5" # minuta
 chour: "10" #godzina
 cday: "13" #dzien
 cmonth: "8" #miesiac
-datka: "2021-08-13"
+datka: "2021-09-07"
 checkout: test
 logfile: "/home/kasa/logi/wysylka_log_{{ datka }}"
