@@ -1,6 +1,6 @@
 powloka: "ansible" # mozliwe bash/ansible
 crontab: "dodaj"   # możliwe parametry dodaj/usun
-cmin: "16" # minuta
+cmin: "21" # minuta
 chour: "14" #godzina
 cday: "16" #dzien
 cmonth: "9" #miesiac
