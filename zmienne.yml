@@ -1,9 +1,9 @@
 powloka: "ansible" # mozliwe bash/ansible
 crontab: "dodaj"   # możliwe parametry dodaj/usun
 cmin: "25" # minuta
-chour: "13" #godzina
-cday: "27" #dzien
+chour: "10" #godzina
+cday: "28" #dzien
 cmonth: "9" #miesiac
-datka: "2021-09-27"
+datka: "2021-09-28"
 checkout: "2021-09-15"
 logfile: "/home/kasa/logi/wysylka_log_{{ datka }}"
