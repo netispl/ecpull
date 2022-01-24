@@ -1,7 +1,7 @@
 powloka: "bash" # mozliwe bash/ansible
 crontab: "dodaj"   # możliwe parametry dodaj/usun
-cmin: "55" # minuta
-chour: "13" #godzina
+cmin: "5" # minuta
+chour: "14" #godzina
 cday: "24" #dzien
 cmonth: "01" #miesiac
 datka: "2022-01-24"
